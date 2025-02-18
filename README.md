@@ -99,12 +99,11 @@ Além disso, sou fluente em inglês, algo que venho desenvolvendo ao longo dos a
 
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Livwire"
+    title="Livwire" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg
-    " 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" 
 />
 
 <img 
@@ -124,6 +123,9 @@ Além disso, sou fluente em inglês, algo que venho desenvolvendo ao longo dos a
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
+
+<br/>
+<br/>
 <br/>
 
 ### ⚙️  Back-end e banco de dados:
@@ -148,8 +150,8 @@ Além disso, sou fluente em inglês, algo que venho desenvolvendo ao longo dos a
 
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -176,8 +178,8 @@ Além disso, sou fluente em inglês, algo que venho desenvolvendo ao longo dos a
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="PostgreSQL" 
+    title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
@@ -185,8 +187,8 @@ Além disso, sou fluente em inglês, algo que venho desenvolvendo ao longo dos a
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="MYSQL" 
+    title="MYSQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
@@ -194,8 +196,8 @@ Além disso, sou fluente em inglês, algo que venho desenvolvendo ao longo dos a
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Jest" 
+    title="Jest"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
