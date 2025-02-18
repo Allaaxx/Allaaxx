@@ -8,7 +8,7 @@ Em 2022, me dediquei aos estudos e fui aprovado no curso Técnico em Desenvolvim
 
 Hoje, continuo minha jornada como desenvolvedor Full Stack, buscando constantemente expandir meus conhecimentos e melhorar minhas habilidades. Estou estudando Node.js, TypeScript e outras tecnologias para criar soluções cada vez mais eficientes. A programação é mais do que uma profissão para mim — é uma paixão que me impulsiona a aprender e a crescer. Também compartilho um pouco do meu aprendizado no YouTube e no Instagram, onde mostro meus projetos e minha evolução na área.
 
-Além disso, sou fluente em inglês, algo que venho desenvolvendo ao longo dos anos, o que me permite expandir ainda mais meus horizontes na tecnologia. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e continuar aprendendo.P Sou apaixonado por tecnologia desde criança e mostro um pouco do meu projeto no youtube" [Allan Rodrigues](https://www.youtube.com/@allanrao2804)", onde mostro algumas funcionalidades dele.
+Além disso, sou fluente em inglês, algo que venho desenvolvendo ao longo dos anos, o que me permite expandir ainda mais meus horizontes na tecnologia. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e continuar aprendendo. Sou apaixonado por tecnologia desde criança e mostro um pouco do meu projeto no youtube" [Allan Rodrigues](https://www.youtube.com/@allanrao2804)", onde mostro algumas funcionalidades dele.
 
 <p align="left">
     <a href="https://www.youtube.com/@allanrao2804?sub_confirmation=1">
