@@ -172,17 +172,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 ### 📊 Estatísticas
 
 <p>
-<p>
 <img
-alt="Estatísticas do GitHub"
-title="Estatísticas do GitHub"
+alt="HTML"
+title="HTML"
 height="147"
 style="margin-right: 10px;"
 src="https://github-readme-stats.vercel.app/api?username=Allaaxx&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
 />
 <img
-alt="Tecnologias mais usadas"
-title="Tecnologias mais usadas"
+alt="CSS"
+title="CSS"
 height="147"
 style="margin-right: 10px;"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allaaxx&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9"
